@@ -1,5 +1,5 @@
 &nbsp;  
-# **AutoClickah**
+# **SmolAutoClicker**
 
 ## Overview:
 A small auto clicker coded in C++.
